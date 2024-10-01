@@ -1,2 +1,2 @@
-# my-first-project
-A simple website 
+# art-voyage
+An e-commerce website
